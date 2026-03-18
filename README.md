@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musharraf-mac" alt="musharraf-mac" /></a> </p>
 
-- 🔭 I’m currently working on **Pulse-Health Tracker**
+- 🔭 I’m currently working on **Pulse-Health Tracker mobile application**
 
 - 🌱 I’m currently learning **Kotlin, ReactJS**
 
