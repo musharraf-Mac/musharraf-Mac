@@ -27,7 +27,7 @@ graduating: 2028
 currently_building: Pulse — a Kotlin health-tracking mobile app
 currently_learning: [Kotlin, React, GCP + Vertex AI]
 also_doing: QA & test automation (Selenium + Java), REST API development
-off_duty: Dota 2 (Io & Lina main), video editing in DaVinci Resolve
+off_duty: Dota 2 (Huskar &n Riki main), video editing in DaVinci Resolve
 reach_me: Musharrafcm97@outlook.com
 ```
 
@@ -133,7 +133,7 @@ reach_me: Musharrafcm97@outlook.com
 
 <div align="center">
 
-![Dota 2](https://img.shields.io/badge/Dota_2-Io_%26_Lina_main-red?style=flat-square&logo=steam&logoColor=white)
+![Dota 2](https://img.shields.io/badge/Dota_2-Huskar_%26_Riki_main-red?style=flat-square&logo=steam&logoColor=white)
 ![Assassin's Creed](https://img.shields.io/badge/Assassin's_Creed-grey?style=flat-square&logo=ubisoft&logoColor=white)
 ![Call of Duty](https://img.shields.io/badge/Call_of_Duty-black?style=flat-square&logo=activision&logoColor=white)
 ![Dishonored](https://img.shields.io/badge/Dishonored-2b2b2b?style=flat-square)
