@@ -27,7 +27,7 @@ graduating: 2028
 currently_building: Pulse — a Kotlin health-tracking mobile app
 currently_learning: [Kotlin, React, GCP + Vertex AI]
 also_doing: QA & test automation (Selenium + Java), REST API development
-off_duty: Dota 2 (Huskar &n Riki main)
+off_duty: Dota 2 (Huskar & Riki main)
 reach_me: Musharrafcm97@outlook.com
 ```
 
