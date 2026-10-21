@@ -24,10 +24,8 @@ name: Mohamed Rauf Abdur Rahman Musharraf
 role: IT Undergraduate @ Horizon Campus, Malabe, Sri Lanka
 origin: Batticaloa, Sri Lanka
 graduating: 2028
-currently_building: Pulse — a Kotlin health-tracking mobile app
-currently_learning: [Kotlin, React, GCP + Vertex AI]
-also_doing: QA & test automation (Selenium + Java), REST API development
-off_duty: Dota 2 (Huskar & Riki main)
+Webiste: www.armusharraf.me
+Skill: AI researcher, Full stack development, Mobile app developer (android)
 reach_me: Musharrafcm97@outlook.com
 ```
 
