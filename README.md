@@ -23,6 +23,7 @@
 name: Mohamed Rauf Abdur Rahman Musharraf
 role: IT Undergraduate @ Horizon Campus, Malabe, Sri Lanka
 origin: Batticaloa, Sri Lanka
+Now in : Colombo, Sri Lanka
 graduating: 2028
 Webiste: www.armusharraf.me
 Skill: AI researcher, Full stack development, Mobile app developer (android)
